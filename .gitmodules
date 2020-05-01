@@ -7,3 +7,6 @@
 [submodule "flowpp"]
 	path = flowpp
 	url = https://github.com/aravindsrinivas/flowpp.git
+[submodule "ebm_code_release"]
+	path = ebm_code_release
+	url = https://github.com/openai/ebm_code_release.git
