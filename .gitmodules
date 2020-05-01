@@ -1,0 +1,6 @@
+[submodule "flow"]
+	path = flow
+	url = https://github.com/bojone/flow.git
+[submodule "Keras-GAN"]
+	path = Keras-GAN
+	url = https://github.com/eriklindernoren/Keras-GAN.git
