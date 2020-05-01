@@ -4,3 +4,6 @@
 [submodule "Keras-GAN"]
 	path = Keras-GAN
 	url = https://github.com/eriklindernoren/Keras-GAN.git
+[submodule "flowpp"]
+	path = flowpp
+	url = https://github.com/aravindsrinivas/flowpp.git

@@ -4,6 +4,7 @@
     + f-VAE
     + Glow
     + Nice
+    + Flow++
   * [VAEs](#vaes)
   * [GANs](#implementations)
     + [Auxiliary Classifier GAN](#ac-gan)
