@@ -1,12 +1,12 @@
 [submodule "flow"]
 	path = flow
 	url = https://github.com/bojone/flow.git
-[submodule "Keras-GAN"]
-	path = Keras-GAN
-	url = https://github.com/eriklindernoren/Keras-GAN.git
 [submodule "flowpp"]
 	path = flowpp
 	url = https://github.com/aravindsrinivas/flowpp.git
 [submodule "ebm_code_release"]
 	path = ebm_code_release
 	url = https://github.com/openai/ebm_code_release.git
+[submodule "PyTorch-GAN"]
+	path = PyTorch-GAN
+	url = https://github.com/eriklindernoren/PyTorch-GAN.git
